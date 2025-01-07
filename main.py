@@ -1,7 +1,3 @@
-#   ammar shaban 153081
-#
-#   maen haddad  153048
-
 import tkinter as tk
 from tkinter import messagebox
 import requests
